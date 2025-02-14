@@ -1,4 +1,4 @@
-# Twinverse
+# Twineverse
 
 **Project Duration:** January 2023 - August 2023
 
